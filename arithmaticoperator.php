@@ -10,5 +10,5 @@ $number = (10-7) *8;//BODMAS(Bracket Or Division Multification, ADDITION and Sub
 echo $number;
 $number++//$number = $number + 1,
 $number--//$number = $number -1,
-
+push
 
