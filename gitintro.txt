@@ -1,0 +1,17 @@
+গিট ইনস্টল কর।
+ভার্সন চেক git --version
+গিট কনফিগার git config --global user.name "userid"
+git config --global user.email "useremail"
+নতুন গিট রিপোজিটরি সেটাপ git init
+বর্তমান স্ট্যাটাস চেক git status
+রিমোট ইউআরএল অ্যাড করা git remote add origin git@github.com:USERNAME/REPOSITORY.git
+রিমোট ইউআরএল পরিবর্তন করা git remote set-url origin git@github.com:USERNAME/REPOSITORY.git 
+রিমোট ইউআরএল চেক git remote -v
+ফাইল স্টেজিং এরিয়াতে নেওয়া (ফাইল ট্র্যাক করা ) git add . or git add -all
+স্ট্যাটাস চেক git status
+ফাইনাল কমিট করা git commit -m ""
+কমিট লগ চেক করা git log or git log --oneline(কমিট আর ও সুন্দর ভাবে দেখতে )
+পূর্বের ভার্শনে ফিরে যাওয়াঃ git checkout 588418a//588418a = কমিট আইডি
+পুশ করা git push origin master
+পুল করা git pull
+ব্রাঞ্চ বানানো
