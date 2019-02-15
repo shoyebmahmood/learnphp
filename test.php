@@ -7,3 +7,5 @@ echo "************************";
 echo "practice in nano";
 
 new commit;
+new commit;
+new commit;
