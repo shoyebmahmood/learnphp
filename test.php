@@ -6,4 +6,4 @@ echo "\n";
 echo "************************";
 echo "practice in nano";
 
-new commit
+new commit;
