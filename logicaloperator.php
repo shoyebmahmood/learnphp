@@ -46,3 +46,17 @@ if("Tuna" ==$food || "salmon" == $food){
 }else{
     echo "We do not know whether {$food} contains vitamin D";
 }
+echo PHP_EOL;
+//Ternary operator
+$number = 12;
+if(12 == $number){
+    echo "Twelve";
+}elseif(10 == $number){
+    echo"Ten";
+}else{
+    echo "Other number!";
+}
+echo "\n";
+//we can do this in using ternary operator
+$numberInWord = (12 == $number) ? "Twelve":"A number";
+echo $numberInWord;
